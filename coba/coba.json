@@ -1,0 +1,28 @@
+[
+    {
+        "nama": "antoni saputra",
+        "umur": 32,
+        "nrp": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Dody",
+            "pembimbing2": "Sandika"
+        }
+    },
+    {
+        "nama": "antoni saputra",
+        "umur": 32,
+        "nrp": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Dody",
+            "pembimbing2": "Sandika"
+        }
+    }
+]
